@@ -41,13 +41,13 @@ st.markdown("""
         margin: 20px 0;
     }
     .metric-card {
-        background-color: #f0f2f6;
+        background-color: #202020;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
     }
     .insight-box {
-        background-color: #e8f4f8;
+        background-color: #202020;
         padding: 15px;
         border-radius: 8px;
         border-left: 4px solid #2E86AB;
