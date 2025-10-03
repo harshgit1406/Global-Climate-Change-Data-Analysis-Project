@@ -3,7 +3,7 @@
 ## Overview
 This project provides a comprehensive Exploratory Data Analysis (EDA) of global climate change indicators to inform evidence-based policy decisions for environmental agencies and governments.
 
-
+Check the live Dashboard - [Global Climate Change Analysis Dashboard](https://code-cookers-global-climate-change-data-analysis.streamlit.app/)
 ## 📊 Dataset
 
 **Source**: [Climate Change Dataset - Kaggle](https://www.kaggle.com/datasets/bhadramohit/climate-change-dataset)
@@ -195,6 +195,7 @@ jupyter>=1.0.0
 3. **Renewable Energy**: Clean energy analysis
 4. **Environmental Factors**: Ecosystem indicators
 5. **Policy Insights**: Recommendations and timeline
+
 
 
 
